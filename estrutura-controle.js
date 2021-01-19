@@ -1,15 +1,3 @@
-/*escreval("Digite o nome do Aluno: ")
-leia(nome)
-escreval("Digite a nota 1 do aluno: ")
-leia(nota1)
-escreval("Digite a nota 2 do aluno: ")
-leia(nota2)
-media := (nota1 + nota2) / 2
-se media >= 5 entao
-   escreval ("Aprovado.")
-senao
-     escreval("Reprovado.")
- fimse*/
 
  var nome, nota1, nota2, media;
 
@@ -24,3 +12,5 @@ senao
     alert(nome + ", você foi aprovado.") 
 else    
     alert(nome + ", você foi reprovado.")
+
+    

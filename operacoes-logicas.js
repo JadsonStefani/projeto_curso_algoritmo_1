@@ -8,17 +8,6 @@ passou = false;
 if (media >= 5) {
     passou = true;
 }
-/*if (passou && media >= 5)
-   alert(nome + ", você foi aprovado.") 
-else    
-   alert(nome + ", você foi reprovado.")
-*/
-
-/*if (passou || media >= 5)
-   alert(nome + ", você foi aprovado.") 
-else    
-   alert(nome + ", você foi reprovado.")
-*/
 
 if (passou && (media >= 5 && media <=9))
    alert(nome + ", você foi aprovado(a).") 
